@@ -268,7 +268,7 @@ li a {
 }
 
 .bg-custom {
-  background: url(img/fondoone.png);
+  background: url(../img/fondoone.png);
 }
 
 .btn-custom {
@@ -292,7 +292,7 @@ li a {
 }
 
 .bg-jumbo {
-  background: url(img/jumbotronOne.png);
+  background: url(../img/jumbotronOne.png);
 }
 
 .title-quieres {
@@ -551,11 +551,11 @@ li a {
 }
 
 .accordion-button:not(.collapsed)::after {
-  background-image: url(img/menosline.png);
+  background-image: url(../img/menosline.png);
 }
 
 .accordion-button::after {
-  background-image: url(img/infomas.png);
+  background-image: url(../img/infomas.png);
   width: 18px;
   height: 19px;
 }
@@ -718,7 +718,7 @@ li a {
     font-weight: 700;
     color: #e00d34;
     background-color: #fafafa;
-    background-image: url(img/arrowDown.png);
+    background-image: url(../img/arrowDown.png);
     background-repeat: no-repeat;
     background-position: right 0.75rem center;
     background-size: 16px 12px;
@@ -1150,7 +1150,7 @@ li a {
     font-weight: 700;
     color: #e00d34;
     background-color: #fafafa;
-    background-image: url(img/arrowDown.png);
+    background-image: url(../img/arrowDown.png);
     background-repeat: no-repeat;
     background-position: right 0.75rem center;
     background-size: 16px 12px;

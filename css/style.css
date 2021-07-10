@@ -624,7 +624,7 @@ li a {
 .masInformacion-box {
   text-align: center;
   left: 0;
-  background-image: url(img/jumbo3.png);
+  background-image: url(../img/jumbo3.png);
   right: 0;
   font-family: "Montserrat", sans-serif;
   padding-bottom: 62px;

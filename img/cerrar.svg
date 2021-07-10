@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="41" viewBox="0 0 108 41">
+  <g id="Grupo_5542" data-name="Grupo 5542" transform="translate(15760 -238)">
+    <rect id="Rectángulo_2995" data-name="Rectángulo 2995" width="108" height="41" transform="translate(-15760 238)" fill="#4a4a4a"/>
+    <g id="Grupo_5510" data-name="Grupo 5510" transform="translate(-17045 -1439)">
+      <line id="Línea_485" data-name="Línea 485" x2="14" y2="16" transform="translate(1362.5 1690.5)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Línea_486" data-name="Línea 486" y1="15" x2="15" transform="translate(1361.5 1690.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+    <text id="Cerrar" transform="translate(-15741 264)" fill="#fff" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Cerrar</tspan></text>
+  </g>
+</svg>

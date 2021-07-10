@@ -286,7 +286,7 @@ li a {
 }
 
 .bg-verif {
-  background: url(img/fondoVerif.png);
+  background: url(../img/fondoVerif.png);
   background-repeat: no-repeat;
   background-position: right;
 }
